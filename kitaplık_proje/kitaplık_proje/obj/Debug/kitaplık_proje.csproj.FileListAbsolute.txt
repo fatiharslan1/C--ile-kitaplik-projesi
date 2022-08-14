@@ -1,0 +1,11 @@
+C:\Users\Monster\source\repos\kitaplık_proje\kitaplık_proje\bin\Debug\kitaplık_proje.exe.config
+C:\Users\Monster\source\repos\kitaplık_proje\kitaplık_proje\bin\Debug\kitaplık_proje.exe
+C:\Users\Monster\source\repos\kitaplık_proje\kitaplık_proje\bin\Debug\kitaplık_proje.pdb
+C:\Users\Monster\source\repos\kitaplık_proje\kitaplık_proje\obj\Debug\kitaplık_proje.csproj.AssemblyReference.cache
+C:\Users\Monster\source\repos\kitaplık_proje\kitaplık_proje\obj\Debug\kitaplık_proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\source\repos\kitaplık_proje\kitaplık_proje\obj\Debug\kitaplık_proje.Form1.resources
+C:\Users\Monster\source\repos\kitaplık_proje\kitaplık_proje\obj\Debug\kitaplık_proje.Properties.Resources.resources
+C:\Users\Monster\source\repos\kitaplık_proje\kitaplık_proje\obj\Debug\kitaplık_proje.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\kitaplık_proje\kitaplık_proje\obj\Debug\kitaplık_proje.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\kitaplık_proje\kitaplık_proje\obj\Debug\kitaplık_proje.exe
+C:\Users\Monster\source\repos\kitaplık_proje\kitaplık_proje\obj\Debug\kitaplık_proje.pdb
